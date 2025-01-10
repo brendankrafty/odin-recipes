@@ -1,0 +1,13 @@
+body {
+    background-color: lightyellow;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.home {
+    text-align: center;
+}
